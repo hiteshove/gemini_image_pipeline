@@ -1,0 +1,15 @@
+﻿.env
+.env.*
+*.env
+venv/
+inputs/
+input_docs/
+outputs/
+output_docs/
+output_json/
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+.vscode/
+.idea/

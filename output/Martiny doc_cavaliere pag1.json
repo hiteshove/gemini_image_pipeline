@@ -1,0 +1,19 @@
+{
+    "filename": "Martiny doc_cavaliere pag1.jpg",
+    "caption": "",
+    "detailed_description": "",
+    "tags": [],
+    "contextual_category": "",
+    "entities": {
+        "people": [],
+        "organizations": [],
+        "locations": [],
+        "date_estimate": ""
+    },
+    "caption_embedding": {
+        "error": "Invalid input: 'content' argument must not be empty. Please provide a non-empty value."
+    },
+    "description_embedding": {
+        "error": "Invalid input: 'content' argument must not be empty. Please provide a non-empty value."
+    }
+}
